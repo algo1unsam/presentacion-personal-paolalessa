@@ -4,10 +4,21 @@
 
 <img src="Foto_Perfil_Paola_Toledo.jpeg" width="350" alt="Foto de Perfil">
 
-***
+---
 
-Intereses profesionales:
+Intereses profesionales („• ᴗ •„)
+
 - Desarrollo Front-End
 - UX / UI
 
-***
+---
+
+Cosas Favoritas (°◡°♡)
+
+- Comida: Pizza con ananá
+
+- Pelicula: 13 Going on 30
+
+- Canción: Baby One More Time
+
+---
