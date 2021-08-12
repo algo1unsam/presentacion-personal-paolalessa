@@ -6,4 +6,8 @@
 
 ***
 
+Intereses profesionales:
+- Desarrollo Front-End
+- UX / UI
 
+***
